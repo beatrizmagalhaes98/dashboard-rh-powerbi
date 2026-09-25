@@ -1,17 +1,16 @@
 # Projeto RH — Dashboard Power BI
 
-Dashboard em Power BI para análise de dados de Recursos Humanos, desenvolvido como projeto de portfólio.
-
-> ✏️ **Personalize esta seção**: descreva aqui o objetivo do dashboard (ex: acompanhar turnover, headcount, admissões/demissões, absenteísmo, etc.), a origem dos dados e o que motivou o projeto.
+Dashboard em Power BI para análise geral de dados de Recursos Humanos, desenvolvido como projeto de portfólio.
 
 ## 🎯 Objetivo
 
-*(descreva aqui o problema de negócio que o dashboard resolve)*
+Oferecer uma visão consolidada e de fácil leitura do que está acontecendo dentro da empresa do ponto de vista de RH: como os funcionários se distribuem entre as áreas e como as despesas se comportam por filial, servindo como um resumo/controle geral da operação.
 
 ## 📊 Conteúdo do dashboard
 
-- Página 1: *(descreva os principais indicadores/visuais)*
-- Página 2: *(descreva os principais indicadores/visuais)*
+- Relação entre funcionários e áreas da empresa
+- Despesas por filial
+- Visão geral e consolidada da operação (não inclui média salarial)
 
 ## 🛠️ Tecnologias utilizadas
 
