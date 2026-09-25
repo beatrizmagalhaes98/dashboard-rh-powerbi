@@ -1,0 +1,15 @@
+# Arquivos temporários do Power BI Desktop
+*.pbix.lock
+~$*.pbix
+.pbi/
+*.tmp
+
+# Cache local do Power BI
+[Cc]ache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
