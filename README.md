@@ -12,6 +12,9 @@ Oferecer uma visão consolidada e de fácil leitura do que está acontecendo den
 - Despesas por filial
 - Visão geral e consolidada da operação (não inclui média salarial)
 
+  <img width="1441" height="807" alt="image" src="https://github.com/user-attachments/assets/6ca37c36-36c7-467e-9fa9-c5b2bb126191" />
+
+
 ## 🛠️ Tecnologias utilizadas
 
 - Power BI Desktop
