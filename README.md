@@ -10,9 +10,9 @@ Oferecer uma visão consolidada e de fácil leitura do que está acontecendo den
 
 - Relação entre funcionários e áreas da empresa
 - Despesas por filial
-- Visão geral e consolidada da operação (não inclui média salarial)
+- Visão geral e consolidada da operação
 
-  <img width="1441" height="807" alt="image" src="https://github.com/user-attachments/assets/6ca37c36-36c7-467e-9fa9-c5b2bb126191" />
+<img width="1443" height="811" alt="image" src="https://github.com/user-attachments/assets/d3483113-82c4-4e2e-9273-13f5e676dbdb" />
 
 
 ## 🛠️ Tecnologias utilizadas
